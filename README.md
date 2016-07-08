@@ -2,7 +2,7 @@
 
 A sample Hanami application with Cucumber to go with the companion blog post.
 
-[Add Cucumber to a Hanami project](http://deangerber.com/blog/2012/06/13/basic-ruby-on-rails-3-dot-x-installation/).
+[Add Cucumber to a Hanami project](http://deangerber.com/blog/2016/07/08/add-cucumber-to-a-hanami-project/).
 
 ## Installation
 
