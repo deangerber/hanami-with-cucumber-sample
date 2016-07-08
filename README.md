@@ -29,7 +29,7 @@ bundle exec hanami server
 Execute the sample Cucumber feature.
 
 ``` bash
-bundle exec rake feature:default
+bundle exec rake features:default
 ```
 
 ## References
