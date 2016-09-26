@@ -1,3 +1,4 @@
+project=sampleapp
 architecture=container
 test=rspec
 template=erb

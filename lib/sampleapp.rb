@@ -16,7 +16,7 @@ Hanami::Model.configure do
   #    adapter type: :sql, uri: 'postgres://localhost/sampleapp_development'
   #    adapter type: :sql, uri: 'mysql://localhost/sampleapp_development'
   #
-  adapter type: :sql, uri: ENV['SAMPLEAPP_DATABASE_URL']
+  adapter type: :sql, uri: ENV['DATABASE_URL']
 
   ##
   # Migrations
